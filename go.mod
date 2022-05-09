@@ -1,4 +1,4 @@
-module github.com/dojinkimm/go-grpc-example
+module github.com/14km/grpc-tutorial
 
 go 1.18
 
